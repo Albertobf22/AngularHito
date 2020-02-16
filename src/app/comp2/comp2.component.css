@@ -1,0 +1,17 @@
+body {
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.container {
+    margin-top: 5%;
+    margin-left: 20%;
+    height: fit-content;
+}
+.bs {
+    margin-right: 5%;
+    margin-top: 15%;
+    float: right;
+    background-color: white;
+    padding: 3%;
+}
